@@ -1,0 +1,5 @@
+Hi, I'm @pierredenis99. Welcome to my github! 
+I'm interested in everything relating to machine learning and advanced analytics. 
+I'm currently studying as part of the Applied Data Science program at MIT. 
+I would love to collaborate on projects using time-series algorithms, as I have some previous experience.
+Feel free to connect with me on LinkedIn: linkedin.com/in/pierre-denis99/
